@@ -1,0 +1,17 @@
+{
+  "name": "london-haiku",
+  "description": "Haiku written in or about London",
+  "author": "James Holloway <jamesholloway@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesholloway/lp-london-haiku.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.2.1",
+    "grunt-php": "~0.3.2",
+    "localtunnel": "~1.0.0"
+  }
+}
