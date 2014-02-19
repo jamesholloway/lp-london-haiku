@@ -2,7 +2,7 @@
   "name": "london-haiku",
   "description": "Haiku written in or about London",
   "author": "James Holloway <jamesholloway@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
