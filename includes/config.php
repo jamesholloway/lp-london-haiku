@@ -3,7 +3,7 @@
 /**
  * Should be either 'numbered' or 'dated'.
  */
-$PUBLICATION_TYPE = 'numbered';
+$PUBLICATION_TYPE = 'dated';
 
 
 /**
