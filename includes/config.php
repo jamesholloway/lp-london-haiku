@@ -12,7 +12,7 @@ $PUBLICATION_TYPE = 'dated';
  * (Or, if $PUBLICATION_TYPE = 'dated', this should be a date
  * in the format 'YYYY-MM-DD', eg, '2013-12-31'.)
  */
-$EDITION_FOR_SAMPLE = 1;
+$EDITION_FOR_SAMPLE = '2014-02-28';
 
 
 /**
